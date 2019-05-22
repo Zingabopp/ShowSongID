@@ -1,10 +1,10 @@
 ﻿{
   "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
-  "author": "",
-  "description": "",
-  "gameVersion": "0.12.2",
-  "id": null,
+  "author": "Zingabopp",
+  "description": "Shows the song's Beat Saver ID after the mapper's name in the song list",
+  "gameVersion": "1.0.0",
+  "id": "showsongid",
   "name": "ShowSongID",
-  "version": "0.0.1-alpha",
+  "version": "1.1.0",
   "features": []
 }
